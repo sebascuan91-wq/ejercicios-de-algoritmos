@@ -3,4 +3,7 @@ Este repositorio contiene mis soluciones a los ejercicios vistos en clase.
 - Lenguaje: PSeInt / Python
 - Curso: Algoritmos y Programación
 - Profesor: Norbey Danilo Muñoz
-ejercicios-algoritmos/
+git add .
+git commit -m "Subo mis primeros ejercicios"
+git push
+
